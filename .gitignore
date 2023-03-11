@@ -50,4 +50,5 @@ windows/
 linux/
 macos/
 
-*.lock
+pubspec.lock
+analysis_options.yaml
